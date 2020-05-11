@@ -1,10 +1,9 @@
-# Candidate Note
-Task 1
+# Task 1
    Endpoint:
    GET:
    http://localhost:8080/reportingstructure/{id}
    
-Task 2
+# Task 2
    Endpoints:
    Create
    POST:
