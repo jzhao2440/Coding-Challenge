@@ -24,7 +24,7 @@
     "effectiveDate": "2020-05-10"
    }
    
-   Note: The exmployeeId has to really exist in the database to make the compensation creation work.
+   Note: The employeeId has to really exist in the database to make the compensation creation work.
 
 
    Read
