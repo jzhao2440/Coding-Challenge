@@ -84,3 +84,19 @@ Compensation from the persistence layer.
 
 ## Delivery
 Please upload your results to a publicly accessible Git repo. Free ones are provided by Github and Bitbucket.
+
+## Candidate Note
+Task 1
+   Endpoint:
+   GET:
+   http://localhost:8080/reportingstructure/{id}
+   
+Task 2
+   Endpoints:
+   Create
+   POST:
+   http://localhost:8080/compensation
+
+   Read
+   GET:
+   http://localhost:8080/compensation/{id}
