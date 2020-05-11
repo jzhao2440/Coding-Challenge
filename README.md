@@ -9,7 +9,7 @@
    POST:
    http://localhost:8080/compensation
    
-   The JSON format for create could be like this for example:
+   The JSON format for create operation could be like this for example:
    
    {
     "employee": {
